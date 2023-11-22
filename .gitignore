@@ -1,2 +1,5 @@
 # Ignore pycache files
 src/__pycache__
+
+# Ignore Mac system files
+.DS_Store
